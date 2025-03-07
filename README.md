@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a highly motivated and disciplined **Computer Science B.Sc. student** at The Open University of Israel, aiming to become a **Machine Learning Engineer**. I have a strong background in **Java development**, **data structures & algorithms**, **SQL**, and **Mathematics**. My passion lies in **backend development**, **AI technologies**, and **cloud computing**.
+I'm a highly motivated and disciplined **Computer Science B.Sc. student** at The Open University of Israel. I have a strong background in **Java development**, **data structures & algorithms**, **SQL**, and **Mathematics**. My passion lies in **backend development**, **AI technologies**, and **cloud computing**.
 
 ## 💻 Tech Stack
 

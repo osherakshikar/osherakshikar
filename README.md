@@ -33,7 +33,7 @@ I enjoy working on projects that challenge me and expand my knowledge. Some of m
 
 ## 📫 Connect with Me
 
-- LinkedIn: *[[Your LinkedIn Profile]](https://www.linkedin.com/in/osher-akshikar-63443b23b/)*
+- LinkedIn: *[[Osher]](https://www.linkedin.com/in/osher-akshikar-63443b23b/)*
 - GitHub: *You're already here!*
 
 Let's build something awesome together! 🚀

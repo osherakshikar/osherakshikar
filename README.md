@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a highly motivated and disciplined **Computer Science B.Sc. student** at The Open University of Israel. I have a strong background in **Java development**, **data structures & algorithms**, **SQL**, and **Mathematics**. My passion lies in **backend development**, **AI technologies**, and **cloud computing**.
+I'm a highly motivated and disciplined **Computer Science B.Sc. student** at The Open University of Israel. I have a strong background in **Java development**, **data structures & algorithms**, **SQL**, and **Mathematics**. My passion lies in **backend development**, **AI technologies**, **cloud computing**, and **cybersecurity**.
 
 ## 💻 Tech Stack
 
@@ -10,9 +10,7 @@ I'm a highly motivated and disciplined **Computer Science B.Sc. student** at The
 - **Backend Development**: SQL, JDBC
 - **Databases**: PostgreSQL
 - **Cloud & DevOps**: Learning Cloud Computing
-- **Version Control**: Git, GitHub
-- **Development Tools**: IntelliJ IDEA
-- **Networking**: Understanding of network protocols
+- **Security**: Understanding of network protocols, threat detection, and vulnerability analysis
 
 ## 🔥 Projects
 
@@ -25,11 +23,9 @@ I enjoy working on projects that challenge me and expand my knowledge. Some of m
 ## 🎯 Goals for 2025
 
 - Build and contribute to **open-source AI projects**
-- Deepen my expertise in **backend technologies and cloud computing**
+- Deepen my expertise in **backend technologies**, **cloud computing**, and **cybersecurity**
 - Learn and build a **Spring Boot REST API integrated with a database**
-- Learn more about **Deep Learning and AI-related backend technologies**
-
-
+- Learn more about **Deep Learning**, **AI-related backend technologies**, and **advanced threat detection**
 
 ## 📫 Connect with Me
 
@@ -37,4 +33,3 @@ I enjoy working on projects that challenge me and expand my knowledge. Some of m
 - GitHub: *You're already here!*
 
 Let's build something awesome together! 🚀
-

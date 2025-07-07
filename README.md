@@ -68,8 +68,8 @@ Client-server chatroom using TCP and JavaFX. Includes real-time messaging, user 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsherAkshikar&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherAkshikar&layout=compact&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OsherAkshikar&show_icons=true&theme=holi" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherAkshikar&layout=compact&theme=holi" height="160" />
 </p>
 
 ---

@@ -1,35 +1,82 @@
-# Hi, I'm Osher! 👋
+<h1 align="center">I'm Osher Akshikar</h1>
+<h3 align="center">🎓 B.Sc. Computer Science student at The Open University of Israel  
 
-## 🚀 About Me
+💡 Passionate about Software development, AI integration, and cloud technologies </h3>
 
-I'm a highly motivated and disciplined **Computer Science B.Sc. student** at The Open University of Israel. I have a strong background in **Java development**, **data structures & algorithms**, **SQL**, and **Mathematics**. My passion lies in **backend development**, **AI technologies**, **cloud computing**, and **cybersecurity**.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=osherakshikar&label=Profile%20views&color=29cebc&style=flat" alt="osherakshikar" /> </p>
 
-## 💻 Tech Stack
+---
 
-- **Programming Languages**: Java
-- **Backend Development**: SQL, JDBC
-- **Databases**: PostgreSQL
-- **Cloud & DevOps**: Learning Cloud Computing
-- **Security**: Understanding of network protocols, threat detection, and vulnerability analysis
+## 🧠 About Me
 
-## 🔥 Projects
+I'm a motivated and disciplined developer with a strong foundation in:
 
-I enjoy working on projects that challenge me and expand my knowledge. Some of my key projects include:
+- Java development and object-oriented programming  
+- Data structures and algorithms  
+- SQL and relational databases  
+- Multithreaded programming and socket communication  
+- Mathematics and logic for computer science
 
-- **Bank Account Management System** – A multi-threaded simulation of bank transactions where multiple clerks update account balances. Implements thread synchronization to prevent race conditions.
-- **Chat Room (Client-Server Communication)** – A TCP-based client-server chatroom where multiple users can join a session. The JavaFX GUI includes a text input field, message display area, participant list, and connection controls.
-- **More Coming Soon**
+Currently focused on learning Spring Boot, backend AI integration, and cloud infrastructure.
 
-## 🎯 Goals for 2025
+---
 
-- Build and contribute to **open-source AI projects**
-- Deepen my expertise in **backend technologies**, **cloud computing**, and **cybersecurity**
-- Learn and build a **Spring Boot REST API integrated with a database**
-- Learn more about **Deep Learning**, **AI-related backend technologies**, and **advanced threat detection**
+## 🛠️ Tech Stack
+
+### Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+
+### Frameworks & Libraries
+
+![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=flat&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat&logo=databricks&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+
+### Tools & Platforms
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 [Bank Account Management System](https://github.com/OsherAkshikar/Advanced-Java-Assignments/tree/main/Maman15/Q1%20Bank%20Account%20Management%20System)  
+A multithreaded banking system simulating concurrent clerk transactions. Demonstrates thread safety, shared resource access, and synchronization in Java.
+
+### 💬 [Java Chat Room](https://github.com/OsherAkshikar/Advanced-Java-Assignments/tree/main/Maman16/Q1%20Chat%20Room)  
+Client-server chatroom using TCP and JavaFX. Includes real-time messaging, user join/leave notifications, and a responsive GUI.
+
+---
+
+## 🎯 2025 Goals
+
+- Build and deploy Spring Boot REST APIs  
+- Contribute to open-source backend/AI/cloud projects  
+- Deepen expertise in AWS cloud platforms
+- Learn and apply backend-focused deep learning techniques  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OsherAkshikar&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherAkshikar&layout=compact&theme=default" height="160" />
+</p>
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: *[[Osher]](https://www.linkedin.com/in/osher-akshikar-63443b23b/)*
-- GitHub: *You're already here!*
+- [LinkedIn](https://www.linkedin.com/in/osher-akshikar-63443b23b/)  
+- [GitHub](https://github.com/OsherAkshikar)
 
-Let's build something awesome together! 🚀
+Let’s build something meaningful together 🚀

@@ -48,10 +48,10 @@ Currently focused on learning Spring Boot, backend AI integration, and cloud inf
 
 ## 📌 Featured Projects
 
-### 🔐 [Bank Account Management System](https://github.com/OsherAkshikar/Advanced-Java-Assignments/tree/main/Maman15/Q1%20Bank%20Account%20Management%20System)  
+### 🔐 [Bank Account Management System](https://github.com/osherakshikar/20554-advanced-programming-java/tree/main/Maman15/Q1%20Bank%20Account%20Management%20System)  
 A multithreaded banking system simulating concurrent clerk transactions. Demonstrates thread safety, shared resource access, and synchronization in Java.
 
-### 💬 [Java Chat Room](https://github.com/OsherAkshikar/Advanced-Java-Assignments/tree/main/Maman16/Q1%20Chat%20Room)  
+### 💬 [Java Chat Room](https://github.com/osherakshikar/20554-advanced-programming-java/tree/main/Maman16/Q1%20Chat%20Room)  
 Client-server chatroom using TCP and JavaFX. Includes real-time messaging, user join/leave notifications, and a responsive GUI.
 
 ---

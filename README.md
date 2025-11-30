@@ -1,82 +1,75 @@
-<h1 align="center">I'm Osher Akshikar</h1>
-<h3 align="center">🎓 B.Sc. Computer Science student at The Open University of Israel  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=29CEBC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Osher+Akshikar;Software+Developer;CS+Student+@+OpenU;Building+Cloud+&+AI+Solutions" alt="Typing SVG" />
+  
+  <h3 align="center">🎓 B.Sc. Computer Science @ The Open University of Israel</h3>
+  
+  <p align="center">
+     Creating efficient, multithreaded backends and exploring the intersection of AI and Cloud.
+  </p>
 
-💡 Passionate about Software development, AI integration, and cloud technologies </h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=osherakshikar&label=Profile%20views&color=29cebc&style=flat" alt="osherakshikar" /> </p>
-
----
-
-## 🧠 About Me
-
-I'm a motivated and disciplined developer with a strong foundation in:
-
-- Java development and object-oriented programming  
-- Data structures and algorithms  
-- SQL and relational databases  
-- Multithreaded programming and socket communication  
-- Mathematics and logic for computer science
-
-Currently focused on learning Spring Boot, backend AI integration, and cloud infrastructure.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-
-### Frameworks & Libraries
-
-![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=flat&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat&logo=databricks&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-
-### Tools & Platforms
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/osher-akshikar-63443b23b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:osher.akshikar@gmail.com"> 
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=osherakshikar&label=Profile%20Views&color=29cebc&style=flat-square" alt="osherakshikar" />
+</div>
 
 ---
 
-## 📌 Featured Projects
+### 👨‍💻 About Me
 
-### 🔐 [Bank Account Management System](https://github.com/osherakshikar/20554-advanced-programming-java/tree/main/Maman15/Q1%20Bank%20Account%20Management%20System)  
-A multithreaded banking system simulating concurrent clerk transactions. Demonstrates thread safety, shared resource access, and synchronization in Java.
+I am a Computer Science student at The Open University of Israel. I focus on building backend software using **Java** and **C**. I am passionate about writing clean code and am currently expanding my skills into **Cloud computing** and **AI**.
 
-### 💬 [Java Chat Room](https://github.com/osherakshikar/20554-advanced-programming-java/tree/main/Maman16/Q1%20Chat%20Room)  
-Client-server chatroom using TCP and JavaFX. Includes real-time messaging, user join/leave notifications, and a responsive GUI.
+* 🔭 **Current Focus:** Building web services with Spring Boot.
+* 🌱 **Learning:** AWS Cloud & Python for AI.
+* 🧠 **Strongest Skills:** Java, OOP, Data Structures, & SQL.
+  
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Languages** | **Frameworks & Libraries** | **Tools & Cloud** |
+|:---:|:---:|:---:|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![JavaFX](https://img.shields.io/badge/JavaFX-0095D5?style=flat-square&logo=java&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat-square&logo=databricks&logoColor=white) | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white) | ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+</div>
 
 ---
 
-## 🎯 2025 Goals
+### 📌 Featured Projects
 
-- Build and deploy Spring Boot REST APIs  
-- Contribute to open-source backend/AI/cloud projects  
-- Deepen expertise in AWS cloud platforms
-- Learn and apply backend-focused deep learning techniques  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OsherAkshikar&show_icons=true&theme=holi" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsherAkshikar&layout=compact&theme=holi" height="160" />
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🔐 [Bank Account Management System](https://github.com/osherakshikar/20554-advanced-programming-java/tree/main/Maman15/Q1%20Bank%20Account%20Management%20System)** | A complex multithreaded simulation of a banking environment. Handles concurrent clerk transactions, ensuring thread safety and preventing race conditions. | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Threads](https://img.shields.io/badge/-Concurrency-orange) |
+| **💬 [Java Chat Room](https://github.com/osherakshikar/20554-advanced-programming-java/tree/main/Maman16/Q1%20Chat%20Room)** | A robust Client-Server chat architecture using TCP sockets. Features real-time communication, user status updates, and a custom JavaFX GUI. | ![JavaFX](https://img.shields.io/badge/-JavaFX-0095D5?logo=java&logoColor=white) ![TCP/IP](https://img.shields.io/badge/-Sockets-blue) |
+| **💾 [System Programming & C Lab](https://github.com/osherakshikar/laboratory-c-final-project)** | A comprehensive low-level implementation demonstrating dynamic memory management, pointer arithmetic, and modular file processing in C. | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![Make](https://img.shields.io/badge/-Makefile-000000?logo=gnu&logoColor=white) |
 
 ---
 
-## 📫 Connect with Me
+### 🎯 Development Roadmap
 
-- [LinkedIn](https://www.linkedin.com/in/osher-akshikar-63443b23b/)  
-- [GitHub](https://github.com/OsherAkshikar)
+I am constantly expanding my skill set. Here is my trajectory for the upcoming year:
 
-Let’s build something meaningful together 🚀
+- [ ] **Cloud Architecture:** Deepen expertise in AWS (EC2, S3, Lambda).
+- [ ] **Backend Mastery:** Build and deploy production-grade Spring Boot REST APIs.
+- [ ] **AI Integration:** Bridge the gap between Python AI models and Java Backends.
+- [ ] **Open Source:** Contribute to backend or cloud-native open-source projects.
+
+---
+
+<div align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+  <br><br>
+  <a href="https://github.com/OsherAkshikar">
+    <img src="https://img.shields.io/github/followers/OsherAkshikar?label=Follow&style=social" alt="Follow">
+  </a>
+</div>
